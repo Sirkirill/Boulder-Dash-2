@@ -1,0 +1,11 @@
+C:\Users\Kirill\Downloads\Telegram Desktop\LRCNN\LRCN\bin\Debug\netcoreapp2.1\Boulder dash.deps.json
+C:\Users\Kirill\Downloads\Telegram Desktop\LRCNN\LRCN\bin\Debug\netcoreapp2.1\Boulder dash.runtimeconfig.json
+C:\Users\Kirill\Downloads\Telegram Desktop\LRCNN\LRCN\bin\Debug\netcoreapp2.1\Boulder dash.runtimeconfig.dev.json
+C:\Users\Kirill\Downloads\Telegram Desktop\LRCNN\LRCN\bin\Debug\netcoreapp2.1\Boulder dash.dll
+C:\Users\Kirill\Downloads\Telegram Desktop\LRCNN\LRCN\bin\Debug\netcoreapp2.1\Boulder dash.pdb
+C:\Users\Kirill\Downloads\Telegram Desktop\LRCNN\LRCN\obj\Debug\netcoreapp2.1\Boulder dash.csprojAssemblyReference.cache
+C:\Users\Kirill\Downloads\Telegram Desktop\LRCNN\LRCN\obj\Debug\netcoreapp2.1\Boulder dash.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\Downloads\Telegram Desktop\LRCNN\LRCN\obj\Debug\netcoreapp2.1\Boulder dash.AssemblyInfoInputs.cache
+C:\Users\Kirill\Downloads\Telegram Desktop\LRCNN\LRCN\obj\Debug\netcoreapp2.1\Boulder dash.AssemblyInfo.cs
+C:\Users\Kirill\Downloads\Telegram Desktop\LRCNN\LRCN\obj\Debug\netcoreapp2.1\Boulder dash.dll
+C:\Users\Kirill\Downloads\Telegram Desktop\LRCNN\LRCN\obj\Debug\netcoreapp2.1\Boulder dash.pdb

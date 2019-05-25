@@ -1,0 +1,33 @@
+D:\newfolders\NET\LRCs\LRCN\LRCN\bin\Debug\netcoreapp2.1\LRCN.deps.json
+D:\newfolders\NET\LRCs\LRCN\LRCN\bin\Debug\netcoreapp2.1\LRCN.runtimeconfig.json
+D:\newfolders\NET\LRCs\LRCN\LRCN\bin\Debug\netcoreapp2.1\LRCN.runtimeconfig.dev.json
+D:\newfolders\NET\LRCs\LRCN\LRCN\bin\Debug\netcoreapp2.1\LRCN.dll
+D:\newfolders\NET\LRCs\LRCN\LRCN\bin\Debug\netcoreapp2.1\LRCN.pdb
+D:\newfolders\NET\LRCs\LRCN\LRCN\obj\Debug\netcoreapp2.1\LRCN.csprojAssemblyReference.cache
+D:\newfolders\NET\LRCs\LRCN\LRCN\obj\Debug\netcoreapp2.1\LRCN.csproj.CoreCompileInputs.cache
+D:\newfolders\NET\LRCs\LRCN\LRCN\obj\Debug\netcoreapp2.1\LRCN.AssemblyInfoInputs.cache
+D:\newfolders\NET\LRCs\LRCN\LRCN\obj\Debug\netcoreapp2.1\LRCN.AssemblyInfo.cs
+D:\newfolders\NET\LRCs\LRCN\LRCN\obj\Debug\netcoreapp2.1\LRCN.dll
+D:\newfolders\NET\LRCs\LRCN\LRCN\obj\Debug\netcoreapp2.1\LRCN.pdb
+D:\newfolders\NET\LRCs\LRCNN\LRCN\obj\Debug\netcoreapp2.1\LRCN.csprojAssemblyReference.cache
+D:\newfolders\NET\LRCs\LRCNN\LRCN\obj\Debug\netcoreapp2.1\LRCN.csproj.CoreCompileInputs.cache
+D:\newfolders\NET\LRCs\LRCNN\LRCN\obj\Debug\netcoreapp2.1\LRCN.AssemblyInfoInputs.cache
+D:\newfolders\NET\LRCs\LRCNN\LRCN\obj\Debug\netcoreapp2.1\LRCN.AssemblyInfo.cs
+D:\newfolders\NET\LRCs\LRCNN\LRCN\obj\Debug\netcoreapp2.1\LRCN.dll
+D:\newfolders\NET\LRCs\LRCNN\LRCN\obj\Debug\netcoreapp2.1\LRCN.pdb
+D:\newfolders\NET\LRCs\LRCNN\LRCN\bin\Debug\netcoreapp2.1\LRCN.deps.json
+D:\newfolders\NET\LRCs\LRCNN\LRCN\bin\Debug\netcoreapp2.1\LRCN.runtimeconfig.json
+D:\newfolders\NET\LRCs\LRCNN\LRCN\bin\Debug\netcoreapp2.1\LRCN.runtimeconfig.dev.json
+D:\newfolders\NET\LRCs\LRCNN\LRCN\bin\Debug\netcoreapp2.1\LRCN.dll
+D:\newfolders\NET\LRCs\LRCNN\LRCN\bin\Debug\netcoreapp2.1\LRCN.pdb
+C:\Users\Kirill\Downloads\Telegram Desktop\LRCNN\LRCN\bin\Debug\netcoreapp2.1\LRCN.deps.json
+C:\Users\Kirill\Downloads\Telegram Desktop\LRCNN\LRCN\bin\Debug\netcoreapp2.1\LRCN.runtimeconfig.json
+C:\Users\Kirill\Downloads\Telegram Desktop\LRCNN\LRCN\bin\Debug\netcoreapp2.1\LRCN.runtimeconfig.dev.json
+C:\Users\Kirill\Downloads\Telegram Desktop\LRCNN\LRCN\bin\Debug\netcoreapp2.1\LRCN.dll
+C:\Users\Kirill\Downloads\Telegram Desktop\LRCNN\LRCN\bin\Debug\netcoreapp2.1\LRCN.pdb
+C:\Users\Kirill\Downloads\Telegram Desktop\LRCNN\LRCN\obj\Debug\netcoreapp2.1\LRCN.csprojAssemblyReference.cache
+C:\Users\Kirill\Downloads\Telegram Desktop\LRCNN\LRCN\obj\Debug\netcoreapp2.1\LRCN.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\Downloads\Telegram Desktop\LRCNN\LRCN\obj\Debug\netcoreapp2.1\LRCN.AssemblyInfoInputs.cache
+C:\Users\Kirill\Downloads\Telegram Desktop\LRCNN\LRCN\obj\Debug\netcoreapp2.1\LRCN.AssemblyInfo.cs
+C:\Users\Kirill\Downloads\Telegram Desktop\LRCNN\LRCN\obj\Debug\netcoreapp2.1\LRCN.dll
+C:\Users\Kirill\Downloads\Telegram Desktop\LRCNN\LRCN\obj\Debug\netcoreapp2.1\LRCN.pdb
